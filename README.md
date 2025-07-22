@@ -1,5 +1,5 @@
 # 💫 About Me:
-Incoming Freshman at Stanford University, with a heavy interest in Programming, Machine Learning, Physics and Mathematics.
+Rising Sophomore at Stanford University, majoring in Mathematics and Mechanical Engineering, interests in theoretical Machine Learning Research and Math, particularly how it can be applied across industries. 
 
 
 # 💻 Tech Stack:
